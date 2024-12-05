@@ -1,0 +1,106 @@
+Cocktails revealed adding Gin :
+[
+  { name: 'Clover Club', ingredients: [ 'Gin' ] },
+  { name: 'Gin Fizz', ingredients: [ 'Gin' ] },
+  { name: 'Monkey Gland', ingredients: [ 'Gin' ] },
+  { name: 'Derby', ingredients: [ 'Gin' ] },
+  { name: 'John Collins', ingredients: [ 'Gin' ] },
+  { name: 'Ramos Fizz', ingredients: [ 'Gin' ] }
+]
+Cocktails revealed adding White rum :
+[
+  { name: 'Bacardi', ingredients: [ 'White rum' ] },
+  { name: 'Mojito', ingredients: [ 'White rum' ] },
+  { name: 'Cuba Libre', ingredients: [ 'White rum' ] },
+  { name: 'Pina Colada', ingredients: [ 'White rum' ] },        
+  { name: 'Daiquiri', ingredients: [ 'White rum' ] }
+]
+Cocktails revealed adding Whiskey :
+[
+  { name: 'Old Fashioned', ingredients: [ 'Whiskey' ] },        
+  { name: 'Whiskey Sour', ingredients: [ 'Whiskey' ] },
+  { name: 'Irish Coffee', ingredients: [ 'Whiskey' ] },
+  { name: 'Mint Julep', ingredients: [ 'Whiskey' ] }
+]
+Cocktails revealed adding Vodka :
+[
+  { name: 'Sea Breeze', ingredients: [ 'Vodka' ] },
+  { name: 'Screwdriver', ingredients: [ 'Vodka' ] },
+  { name: 'Bloody Mary', ingredients: [ 'Vodka' ] },
+  { name: 'Moscow Mule', ingredients: [ 'Vodka' ] }
+]
+Cocktails revealed adding Vermouth :
+[
+  { name: 'Tuxedo', ingredients: [ 'Vermouth' ] },
+  { name: 'Manhattan', ingredients: [ 'Vermouth' ] },
+  { name: 'Dirty Martini', ingredients: [ 'Vermouth' ] },       
+  { name: 'Dry Martini', ingredients: [ 'Vermouth' ] }
+]
+Cocktails revealed adding Triple Sec :
+[
+  { name: 'Lemon Drop Martini', ingredients: [ 'Triple Sec' ] },
+  { name: 'Cosmopolitan', ingredients: [ 'Triple Sec' ] },      
+  { name: 'Kamikaze', ingredients: [ 'Triple Sec' ] },
+  { name: 'White Lady', ingredients: [ 'Triple Sec' ] }
+]
+Cocktails revealed adding Tequila :
+[
+  { name: 'Long Island Iced Tea', ingredients: [ 'Tequila' ] },
+  { name: 'Margarita', ingredients: [ 'Tequila' ] },
+  { name: 'Tequila Sunrise', ingredients: [ 'Tequila' ] },
+  { name: "Tommy's Margarita", ingredients: [ 'Tequila' ] },
+  { name: 'Vampiro', ingredients: [ 'Tequila' ] }
+]
+Cocktails revealed adding Cognac :
+[
+  { name: "Horse's Neck", ingredients: [ 'Cognac' ] },
+  { name: 'Sidecar', ingredients: [ 'Cognac' ] },
+  { name: 'Between the Sheets', ingredients: [ 'Cognac' ] }
+]
+Cocktails revealed adding Dark rum :
+[
+  { name: "Planter's Punch", ingredients: [ 'Dark rum' ] },
+  { name: 'Mai-tai', ingredients: [ 'Dark rum' ] },
+  { name: "Dark 'n' Stormy", ingredients: [ 'Dark rum' ] }
+]
+Cocktails revealed adding Galliano :
+[
+  { name: 'Yellow Bird', ingredients: [ 'Galliano' ] },
+  { name: 'Golden Dream', ingredients: [ 'Galliano' ] },
+  { name: 'Barracuda', ingredients: [ 'Galliano' ] },
+  { name: 'Harvey Wallbanger', ingredients: [ 'Galliano' ] }
+]
+Cocktails revealed adding Champagne :
+[
+  { name: 'Mimosa', ingredients: [ 'Champagne' ] },
+  { name: 'French 75', ingredients: [ 'Champagne' ] },
+  { name: 'Champagne Cocktail', ingredients: [ 'Champagne' ] }
+]
+Cocktails revealed adding Cherry liqueur :
+[
+  { name: 'Aviation', ingredients: [ 'Cherry liqueur' ] },
+  { name: 'Mary Pickford', ingredients: [ 'Cherry liqueur' ] },
+  { name: 'Hemingway Special', ingredients: [ 'Cherry liqueur' ] }
+]
+Cocktails revealed adding Créme liqueur :
+[
+  { name: 'Stinger', ingredients: [ 'Créme liqueur' ] },
+  { name: 'Alexander', ingredients: [ 'Créme liqueur' ] },
+  { name: 'Russian Spring Punch', ingredients: [ 'Créme liqueur' ] }
+]
+Cocktails revealed adding DiSaronno :
+[
+  { name: 'God Mother', ingredients: [ 'DiSaronno' ] },
+  { name: 'French Connection', ingredients: [ 'DiSaronno' ] },
+  { name: 'God Father', ingredients: [ 'DiSaronno' ] }
+]
+Cocktails revealed adding Campari :
+[
+  { name: 'Negroni', ingredients: [ 'Campari' ] },
+  { name: 'Americano', ingredients: [ 'Campari' ] }
+]
+Cocktails revealed adding Coffee liqueur :
+[
+  { name: 'Espresso Martini', ingredients: [ 'Coffee liqueur' ] },
+  { name: 'Black Russian', ingredients: [ 'Coffee liqueur' ] }
+]
